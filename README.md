@@ -1,125 +1,85 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Agarwal</h1>
-<h3 align="center">🚀 Full Stack Developer | 📱 Mobile Application Developer | 🤖 AI/ML Enthusiast</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer | 📱 Mobile App Developer | 🤖 AI/ML Explorer
+</h3>
 
 <p align="center">
-Passionate about building scalable web applications, mobile experiences, and AI-powered solutions that solve real-world problems.
+Building impactful digital experiences with clean code, scalable systems, and intelligent solutions.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Mobile+App+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies&center=true&width=700&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Mobile+Application+Developer;React+Native+%7C+MERN+Developer;AI+%26+Machine+Learning+Explorer;Open+Source+Contributor&center=true&width=700&height=45">
 </p>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-🎓 Third-year Computer Science Engineering student at **Government Women's Engineering College, Ajmer**
+💻 Turning ideas into scalable products through **Full Stack & Mobile Development**
 
-💻 Building modern **Full Stack Web Applications** and **Mobile Applications**
+📱 Building responsive applications with seamless user experiences
 
-📱 Interested in creating responsive, user-focused, and scalable digital products
+🤖 Exploring **AI/ML** and integrating smart features into real-world solutions
 
-🤖 Exploring **Artificial Intelligence & Machine Learning** to create smart applications
+🌱 Continuously learning, building and contributing to open-source communities
 
-🌱 Currently improving my skills in:
-- Full Stack Development
-- Mobile App Development
-- Backend APIs
-- AI/ML Integration
-
-⚡ I enjoy turning ideas into products and solving real-world challenges through technology.
+⚡ I enjoy creating products that are useful, interactive and solve practical problems
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Arsenal
 
-### 👨‍💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css"/>
-</p>
+**Frontend:** React.js • JavaScript • Tailwind CSS • HTML • CSS
 
-### 🌐 Full Stack Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,mongodb,mysql"/>
-</p>
+**Backend:** Node.js • Express.js • FastAPI • REST APIs
 
-### 📱 Mobile Development
-<p>
-<img src="https://skillicons.dev/icons?i=flutter"/>
-</p>
+**Mobile:** React Native • Flutter
 
-### 🤖 AI / Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-<img src="https://img.shields.io/badge/NumPy-orange">
-<img src="https://img.shields.io/badge/Pandas-blue">
-</p>
+**Database:** MongoDB • MySQL • PostgreSQL
 
-### ⚙️ Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
-</p>
+**Languages:** C++ • Python • TypeScript • Dart
+
+**AI/ML:** TensorFlow • NumPy • Pandas • Data Analytics
+
+**Tools:** Git • Firebase • Android Studio • Postman • Vercel
 
 ---
 
-## 💡 Areas of Interest
+## 🚀 Featured Projects
 
-💻 Full Stack Development  
-📱 Mobile Application Development  
-🤖 Artificial Intelligence & Machine Learning  
-🎨 UI/UX Design  
-☁️ Cloud Technologies  
+📌 **Planora**  
+Cross-platform task management app with REST APIs and real-time updates
 
----
+📌 **ThinkFix**  
+Full-stack EdTech platform for analyzing learning patterns and conceptual mistakes
 
-## 📌 Featured Projects
+📌 **ZykaHub**  
+MERN-based restaurant reservation system with authentication and dynamic booking
 
-### 🍕 Pizza Delivery Application
-Full Stack application with authentication, order customization, payment integration, inventory management, and real-time order tracking.
-
-### 🍲 Food Recipe Application
-Select ingredients and get recipe suggestions with voice guidance using FastAPI and JavaScript.
-
-### 😀 AI Emoji Translator
-NLP-based application that converts text into expressive emojis.
-
-### 🎮 Talk with Bheem & Chutki
-AI-powered chatbot application for interactive conversations.
+📌 **AI Emoji Translator**  
+NLP-based application transforming text into expressive emojis
 
 ---
 
-## 🏆 Achievements & Activities
+## 🏆 Highlights
 
-🏅 Participated in Hackathons and Coding Competitions
+✨ Mobile Application Developer Intern @ Fixacity
 
-🚀 Open Source Contributor
+✨ Web Developer Intern @ Academy Innova World
 
-💡 Built projects focused on solving real-world problems
+✨ Open Source Contributor (SWOC & GSSoC)
 
-📚 Continuously learning and exploring new technologies
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-</p>
+✨ Participant in ISRO Hackathon & NASA Space Apps Challenge
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: agarwalpriyanshi690@gmail.com
-
-💼 LinkedIn: Add your LinkedIn
-
-🌟 "Code • Build • Learn • Repeat"
+📧 agarwalpriyanshi690@gmail.com  
+💼 LinkedIn: linkedin.com/in/priyanshi-agarwal-0bb444291  
+🌍 Portfolio: priyanshi-2006.netlify.app
 
 <p align="center">
-⭐ Thanks for visiting my profile ⭐
+Code • Create • Innovate 🚀
 </p>
