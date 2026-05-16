@@ -1,92 +1,125 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Agarwal</h1>
+<h3 align="center">🚀 Full Stack Developer | 📱 Mobile Application Developer | 🤖 AI/ML Enthusiast</h3>
 
- 
-🎓 Engineering Student | Computer Science Major  
-🔧 Passionate about problem-solving, building innovative solutions, and exploring new technologies.
-
-----
-
-🌟 About Me  
-I am a third-year Computer Science Engineering (CSE) student at Government Women's Engineering College, Ajmer (GWEC, Ajmer). I have a keen interest in programming, software development, and AI and Machine Learning. I actively participate in hackathons, coding competitions, and technical challenges to apply my knowledge to real-world scenarios.
-
-I am also a proud contributor to open-source projects, where I collaborate with other developers to build impactful tools and solutions. 🚀
-
----
-
-🛠️ Tech Stack & Skills  
-Here are some of the technologies and tools I've been working with:
-
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" height="40" />
-  <img src="https://img.shields.io/badge/ML-Machine%20Learning-orange?logo=scikitlearn" title="Machine Learning" height="40" />
-  <img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-red?logo=tensorflow" title="Artificial Intelligence" height="40" />
+Passionate about building scalable web applications, mobile experiences, and AI-powered solutions that solve real-world problems.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Mobile+App+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies&center=true&width=700&height=50">
 </p>
 
 ---
 
-<h3 align="center">Frameworks & Tools:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" height="40" />
-  <img src="https://img.shields.io/badge/TensorFlow-TensorFlow-orange?logo=tensorflow" title="TensorFlow" height="40" />
-  <img src="https://img.shields.io/badge/Matplotlib-Matplotlib-red?logo=matplotlib" title="Matplotlib" height="40" />
-  <img src="https://img.shields.io/badge/Seaborn-Seaborn-blue?logo=python" title="Seaborn" height="40" />
-  <img src="https://img.shields.io/badge/PyTorch-PyTorch-orange?logo=pytorch" title="PyTorch" height="40" />
+## 🚀 About Me
+
+🎓 Third-year Computer Science Engineering student at **Government Women's Engineering College, Ajmer**
+
+💻 Building modern **Full Stack Web Applications** and **Mobile Applications**
+
+📱 Interested in creating responsive, user-focused, and scalable digital products
+
+🤖 Exploring **Artificial Intelligence & Machine Learning** to create smart applications
+
+🌱 Currently improving my skills in:
+- Full Stack Development
+- Mobile App Development
+- Backend APIs
+- AI/ML Integration
+
+⚡ I enjoy turning ideas into products and solving real-world challenges through technology.
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css"/>
 </p>
 
+### 🌐 Full Stack Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,mongodb,mysql"/>
+</p>
+
+### 📱 Mobile Development
+<p>
+<img src="https://skillicons.dev/icons?i=flutter"/>
+</p>
+
+### 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://img.shields.io/badge/NumPy-orange">
+<img src="https://img.shields.io/badge/Pandas-blue">
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+</p>
 
 ---
 
-**Domains of Interest:**  
-Web Development 📱  
-AI/ML 🤖  
-UI/UX Design 🎨  
-Data Visualization & Charts 📊
+## 💡 Areas of Interest
+
+💻 Full Stack Development  
+📱 Mobile Application Development  
+🤖 Artificial Intelligence & Machine Learning  
+🎨 UI/UX Design  
+☁️ Cloud Technologies  
 
 ---
 
-📚 Projects  
+## 📌 Featured Projects
 
-📌 AI Emoji Translator 
+### 🍕 Pizza Delivery Application
+Full Stack application with authentication, order customization, payment integration, inventory management, and real-time order tracking.
 
-🚀 A fun and interactive project that leverages Natural Language Processing (NLP) to convert text into corresponding emojis, making conversations more expressive and engaging.  
+### 🍲 Food Recipe Application
+Select ingredients and get recipe suggestions with voice guidance using FastAPI and JavaScript.
 
+### 😀 AI Emoji Translator
+NLP-based application that converts text into expressive emojis.
 
-📌 Talk with Bheem and Chutki  
-
-🎮 A chatbot-based application that allows users to interact with popular characters Bheem and Chutki using AI-powered conversation flows.
-
-📌 Food Recipe Web Application
-
-🚀 Select ingredients and get recipe suggestions along with a voice guide (desktop only). Powered by FastAPI, JavaScript, and pyttsx3.
-
----
-
-🚀 Hackathons & Achievements  
-🏆 Participated in Bhartiya Antarishak Hackathon and various coding competitions.  
-🔹 Worked on real-world projects in Web Development, AI/ML .  
-🔹 Contributed to open-source communities and constantly upskilled through learning platforms.  
-🔹 Passionate about solving problems and building technology that can make a difference.
+### 🎮 Talk with Bheem & Chutki
+AI-powered chatbot application for interactive conversations.
 
 ---
 
-🌐 Connect with Me  
-📧 Email: agarwalpriyanshi690@gmail.com  
+## 🏆 Achievements & Activities
 
-🔗 Follow my journey as I continue exploring, learning, and building! 🚀
+🏅 Participated in Hackathons and Coding Competitions
 
-🏷️ Tags  
-#PriyanshiAgarwal #WomenInTech #CSE #GWEC_Ajmer #AI #MachineLearning #WebDevelopment #UIUX #DataVisualization #Charts #Hackathons #OpenSource #ProblemSolving
+🚀 Open Source Contributor
+
+💡 Built projects focused on solving real-world problems
+
+📚 Continuously learning and exploring new technologies
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: agarwalpriyanshi690@gmail.com
+
+💼 LinkedIn: Add your LinkedIn
+
+🌟 "Code • Build • Learn • Repeat"
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>
