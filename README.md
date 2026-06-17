@@ -1,70 +1,72 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Agarwal</h1>
 
 <h3 align="center">
-Full Stack Developer • Mobile App Developer • AI/ML Enthusiast
+Full Stack Developer • Mobile Application Developer • AI/ML Enthusiast
 </h3>
 
 <p align="center">
-Building scalable web applications, mobile experiences, and AI-powered solutions.
+Building scalable web applications, cross-platform mobile apps, and intelligent digital solutions.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech CSE Student
-- 💻 Interested in Full Stack Development & Mobile App Development
-- 🤖 Exploring AI/ML and Generative AI
-- 🌱 Currently improving DSA, System Design, and Full Stack Development
-- 🚀 Open to internships and collaborative projects
+- 🎓 B.Tech Computer Science Engineering Student
+- 📱 Mobile Application Developer with React Native & Expo
+- 💻 Full Stack Developer experienced in React, Node.js, FastAPI, and REST APIs
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🚀 Passionate about building user-centric and impactful products
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** C++, Python, JavaScript, TypeScript
+**Frontend:** React.js, JavaScript, TypeScript, Tailwind CSS
 
-**Frontend:** React.js, HTML, CSS, Tailwind CSS
+**Backend:** Node.js, Express.js, FastAPI, REST APIs
 
-**Backend:** FastAPI, Node.js, Express.js
+**Mobile Development:** React Native, Expo, Flutter
 
-**Mobile:** React Native, Flutter
+**Languages:** C++, Python, Dart
 
 **Databases:** MongoDB, MySQL, PostgreSQL
 
-**Tools:** Git, GitHub, Firebase, Postman, Android Studio
+**Tools:** Git, Firebase, Android Studio, Postman, VS Code, Vercel, Netlify
+
+**ML:** NumPy, Pandas, Matplotlib, Data Preprocessing
 
 ---
 
 ## 🚀 Featured Projects
 
-### AI Emoji Translator
-AI-powered application that converts text into expressive emojis.
+### Planora
+Cross-platform task management application built with React Native and REST APIs.
 
-### CloudConnect Hub
-Platform for workshop management and student query tracking.
+### ThinkFix
+Full-stack EdTech platform for analyzing conceptual mistakes and learning patterns.
 
-### Food Recipe Application
-Recipe discovery platform with voice assistance and API integration.
-
-### Talk with Bheem & Chutki
-Interactive AI-based character conversation application.
+### ZykaHub
+MERN-based restaurant reservation system with authentication and booking functionality.
 
 ---
 
 ## 🏆 Achievements
 
-- Contributor at SWOC & GSSoC
+- Coordinator, Training and Placement Office (TPO), GWECA
+- Contributor at SWOC Season 5 and GSSoC'25
+- Selected as Mentee in Goldman Sachs Mentorship Program 2025
+- Selected as Mentee in Atlassian Mentorship Program
 - Cleared Stage 1 of HackWithInfy
-- Participated in NASA Space Apps Challenge
-- Participated in ISRO Hackathon
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
 📧 agarwalpriyanshi690@gmail.com
 
-💼 LinkedIn: Add your profile link
+💼 LinkedIn
 
-🌐 Portfolio: Add your portfolio link
+🌐 Portfolio
+
+📌 Open to internships, collaborations, and exciting development opportunities.
