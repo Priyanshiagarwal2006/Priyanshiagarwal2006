@@ -65,8 +65,4 @@ MERN-based restaurant reservation system with authentication and booking functio
 
 📧 agarwalpriyanshi690@gmail.com
 
-💼 LinkedIn
-
-🌐 Portfolio
-
 📌 Open to internships, collaborations, and exciting development opportunities.
