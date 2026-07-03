@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Agarwal</h1>
 
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer • Full Stack Developer • Mobile Application Developer</h3>
 
 <p align="center">
-Passionate about building scalable software, cross-platform mobile applications, and AI-powered experiences.
+Passionate about building scalable applications, modern mobile experiences, and AI-driven solutions that solve real-world problems.
 </p>
 
 <p align="center">
 React • Next.js • React Native • Node.js • FastAPI • MERN • AI
 </p>
 
----
-
-> Building products, solving problems, and continuously learning.
+<p align="center">
+<i>Building. Learning. Growing.</i>
+</p>
