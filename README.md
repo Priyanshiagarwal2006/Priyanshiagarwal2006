@@ -1,11 +1,15 @@
-# Hi 👋 I'm Priyanshi Agarwal
+<h1 align="center">Hi 👋, I'm Priyanshi Agarwal</h1>
 
-### Full Stack Developer | Mobile Application Developer | AI/ML Enthusiast
+<h3 align="center">Software Developer • Full Stack • Mobile Application</h3>
 
-Building scalable web applications, cross-platform mobile experiences, and intelligent software solutions.
+<p align="center">
+Passionate about building scalable software, cross-platform mobile applications, and AI-powered experiences.
+</p>
 
-I enjoy creating products that combine clean architecture, intuitive user experiences, and efficient backend systems. Passionate about continuous learning, open-source contributions, and solving real-world problems through technology.
+<p align="center">
+React • Next.js • React Native • Node.js • FastAPI • MERN • AI
+</p>
 
-🚀 Full Stack Development • 📱 Mobile Development • 🤖 Artificial Intelligence
+---
 
-Currently exploring scalable system design, backend engineering, and modern software development practices.
+> Building products, solving problems, and continuously learning.
